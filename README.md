@@ -264,3 +264,5 @@ Bitcoin donations may be sent to the following address:
 <a href="bitcoin:1KEbFvcXL8m6LogG2wjSUFz2xH6PeN6jRd?label=Hover.css%20Development"><img src="http://ianlunn.co.uk/images/btc-donate.jpg" /></a>
 <p>1KEbFvcXL8m6LogG2wjSUFz2xH6PeN6jRd</p>
 </div>
+
+<!-- GitAds-Verify: 8FK3ZJTGNTB8G4424C88GYF6332YOCAN -->
